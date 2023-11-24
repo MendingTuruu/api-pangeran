@@ -13,7 +13,7 @@ const visitors = new Set();
 let totalRequests = 0;
 let totalVisitors = 0;
 
-var allowedOrigins = ['https://api-pangeran.vercel.app'];
+var allowedOrigins = ['https://api-pangeran-qunqzd2g6-mendingturuu.vercel.app/'];
 
 app.set('trust proxy', 1)
 
