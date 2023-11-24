@@ -5,7 +5,7 @@
 ------------------
 
 ## —◉ APIs online:
-- API : [https://api-pangeran.vercel.app/status](https://api-pangeran.vercel.app/status)
+- API : [https://api-pangeran--mendingturuu.repl.co/](https://api-pangeran--mendingturuu.repl.co/)
 
 ------------------
 
