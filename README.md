@@ -127,8 +127,8 @@
 <a href="https://github.com/Shizu-SH"><img src="https://github.com/Shizu-SH.png" width="100" height="100" alt="Shizu-SH"/></a>
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="100" height="100" alt="Shizu-SH"/></a>
 <a href="https://github.com/Miko7799 "><img src="https://github.com/Miko7799.png" width="100" height="100" alt="Shizu-SH"/></a>
-<a href="https://github.com/MendingTuruu"><img src=https://github.com/MendingTuruu.png" width="100" height="100" alt="Shizu-SH"/></a>
+<a href="https://github.com/MendingTuruu"><img src="https://github.com/MendingTuruu.png" width="100" height="100" alt="Shizu-SH"/></a>
 
 ## —◉ Editor & owner
 <a href="https://github.com/MendingTuruu"><img src="https://github.com/MendingTuruu.png" width="150" height="150" alt="Pangeran"/></a>
-- Api Luna - By Miko
+- Api Killua - By Pangeran
